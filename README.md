@@ -25,12 +25,15 @@
 
 <div id="content">
 
-    - Link Replit : https://replit.com/@Ilham-NurNur4/tugaskriptografi#main.py
+Link Replit : [https://replit.com/@Ilham-NurNur4/tugaskriptografi#main.py](https://replit.com/@Ilham-NurNur4/tugaskriptografi#main.py)
+<br>
 
-    - ![img1](images/1.png);
+- ![img1](images/1.png);
+  <br>
 
-    - ![img2](images/2.png);
+- ![img2](images/2.png);
+  <br>
 
-    - ![img3](images/3.png);
+- ![img3](images/3.png);
 
 </div>
